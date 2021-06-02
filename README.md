@@ -1,5 +1,3 @@
-# Project1
-This contains all the stuff about project 1
 # Project-1: SAT & ACT Analysis
 
 
